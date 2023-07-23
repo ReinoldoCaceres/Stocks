@@ -11,6 +11,8 @@
   <ItemGroup>
     <PackageReference Include="Microsoft.AspNetCore.OpenApi" Version="7.0.7" />
     <PackageReference Include="Swashbuckle.AspNetCore" Version="6.5.0" />
+    <PackageReference Include="Newtonsoft.Json" Version="13.0.3" />
+    <PackageReference Include="AutoMapper" Version="12.0.1" />
   </ItemGroup>
 
   <ItemGroup>
@@ -18,11 +20,15 @@
     <None Remove="Services\" />
     <None Remove="DTOs\" />
     <None Remove="Controllers\" />
+    <None Remove="Helper\" />
+    <None Remove="Newtonsoft.Json" />
+    <None Remove="AutoMapper" />
   </ItemGroup>
   <ItemGroup>
     <Folder Include="Entities\" />
     <Folder Include="Services\" />
     <Folder Include="DTOs\" />
     <Folder Include="Controllers\" />
+    <Folder Include="Helper\" />
   </ItemGroup>
 </Project>

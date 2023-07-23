@@ -57,5 +57,20 @@ namespace ApiDemo2.Controllers
                 return StatusCode(500, ex.Message);
             }
         }
+
+        [HttpGet("GetClosePricesLastTwoDays")]
+        public async Task<IActionResult> GetClosePricesLastTwoDaysAsync(string symbol)
+        {
+            try
+            {
+                var data = await _stockService.GetLastTwoDaysVarianceAsync(symbol);
+                return Ok(data);
+
+            }
+            catch (Exception ex)
+            {
+                return StatusCode(500, ex.Message);
+            }
+        }
     }
 }

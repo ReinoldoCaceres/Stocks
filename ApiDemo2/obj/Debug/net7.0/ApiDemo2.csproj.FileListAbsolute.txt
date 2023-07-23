@@ -5,8 +5,10 @@
 /Users/reinoldocaceres/Projects/ApiDemo2/ApiDemo2/bin/Debug/net7.0/ApiDemo2.runtimeconfig.json
 /Users/reinoldocaceres/Projects/ApiDemo2/ApiDemo2/bin/Debug/net7.0/ApiDemo2.dll
 /Users/reinoldocaceres/Projects/ApiDemo2/ApiDemo2/bin/Debug/net7.0/ApiDemo2.pdb
+/Users/reinoldocaceres/Projects/ApiDemo2/ApiDemo2/bin/Debug/net7.0/AutoMapper.dll
 /Users/reinoldocaceres/Projects/ApiDemo2/ApiDemo2/bin/Debug/net7.0/Microsoft.AspNetCore.OpenApi.dll
 /Users/reinoldocaceres/Projects/ApiDemo2/ApiDemo2/bin/Debug/net7.0/Microsoft.OpenApi.dll
+/Users/reinoldocaceres/Projects/ApiDemo2/ApiDemo2/bin/Debug/net7.0/Newtonsoft.Json.dll
 /Users/reinoldocaceres/Projects/ApiDemo2/ApiDemo2/bin/Debug/net7.0/Swashbuckle.AspNetCore.Swagger.dll
 /Users/reinoldocaceres/Projects/ApiDemo2/ApiDemo2/bin/Debug/net7.0/Swashbuckle.AspNetCore.SwaggerGen.dll
 /Users/reinoldocaceres/Projects/ApiDemo2/ApiDemo2/bin/Debug/net7.0/Swashbuckle.AspNetCore.SwaggerUI.dll
